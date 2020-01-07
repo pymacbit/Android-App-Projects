@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/y3/.android/build-cache/27aa06c35d9133a200a4a2125fe86c9b9d5261d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/pre-dexed/release/classes_13f28bd05032a5680ae0555d8798373858ddde48.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/.android/build-cache/1846e8e8b7b6b0cf3bb1e0e258f381a7a2fbc755/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97883d3b9641b5b735ec03cbc773c233791c11b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/.android/build-cache/0c8aa1adf2fa2e741d1557366be988a795c50dbe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0ff3017ec775ff23d94e8b9b272a9b2de959143/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/y3/.android/build-cache/0c8aa1adf2fa2e741d1557366be988a795c50dbe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/pre-dexed/release/classes_f0ff3017ec775ff23d94e8b9b272a9b2de959143.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/.android/build-cache/d69bfd0efbbab9ac4258a5d27c58748438352a07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fddf1c858e8c770a981977031a753bd56118ad52/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/y3/.android/build-cache/b600a9870c9986950da779e03440a174d5aeab9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/pre-dexed/release/classes_f855bc28e8aef9e3cbfe19d4411581f9f1c205d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/y3/.android/build-cache/d69bfd0efbbab9ac4258a5d27c58748438352a07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/pre-dexed/release/classes_fddf1c858e8c770a981977031a753bd56118ad52.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/.android/build-cache/b600a9870c9986950da779e03440a174d5aeab9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f855bc28e8aef9e3cbfe19d4411581f9f1c205d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/y3/.android/build-cache/1846e8e8b7b6b0cf3bb1e0e258f381a7a2fbc755/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/pre-dexed/release/classes_97883d3b9641b5b735ec03cbc773c233791c11b9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/.android/build-cache/8625882f6f43b45545f3f7dda14234b876e2c361/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_328f0c32fc06feb316ca03ecfb8399029f3e560e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/Documents/ITMRaipur/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffb598441e1d11ab7dfef44e4989201e2eee12b6">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_90d02d8dbe5f8cb2bc22b88d75b47ff4bd53929f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/y3/.android/build-cache/8625882f6f43b45545f3f7dda14234b876e2c361/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/pre-dexed/release/classes_328f0c32fc06feb316ca03ecfb8399029f3e560e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/.android/build-cache/4c0557e44662b862e7d1b2aaaf44e4562182df74/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93553d02d3727b41666a3ea134f3900337afa2a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_1ff73cc6841998f5723d00bb468be34188495e0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_0c35b837a6cef6270b1da669d15abecc08c30018/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/.android/build-cache/77dac473cf08d23d4963de599845123335237fb9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_105b0ce5570199566bb5801d782cab9a364150b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/y3/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_1ff73cc6841998f5723d00bb468be34188495e0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/y3/.android/build-cache/77dac473cf08d23d4963de599845123335237fb9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/pre-dexed/release/classes_105b0ce5570199566bb5801d782cab9a364150b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/y3/.android/build-cache/4c0557e44662b862e7d1b2aaaf44e4562182df74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/pre-dexed/release/classes_93553d02d3727b41666a3ea134f3900337afa2a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/.android/build-cache/c406b47b0c203dbf76f5b5b98d4039a8b3fd9d97/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b89f2b6ed119a97ae37db7d63ebb588f5217b269/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/y3/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/pre-dexed/release/support-annotations-26.0.0-alpha1_0c35b837a6cef6270b1da669d15abecc08c30018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/y3/.android/build-cache/c406b47b0c203dbf76f5b5b98d4039a8b3fd9d97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/pre-dexed/release/classes_b89f2b6ed119a97ae37db7d63ebb588f5217b269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/y3/.android/build-cache/3c8abfd7edc827e9fd37ea9c25294ef840589186/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/pre-dexed/release/classes_53c7a6a433efd71177533c980d9c5c4eaaac6c3c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/.android/build-cache/3c8abfd7edc827e9fd37ea9c25294ef840589186/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53c7a6a433efd71177533c980d9c5c4eaaac6c3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/Documents/ITMRaipur/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0164bd02aa4c66819b131f424b16fcb08d79aabe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/.android/build-cache/27aa06c35d9133a200a4a2125fe86c9b9d5261d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/y3/Documents/ITMRaipur/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13f28bd05032a5680ae0555d8798373858ddde48/classes.dex" />
+    </item>
+
+</items>
