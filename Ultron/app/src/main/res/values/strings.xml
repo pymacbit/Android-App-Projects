@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ultron</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">LETS GO</string>
+
+    <string name="slide_1_title">Your Personal Assistant</string>
+    <string name="slide_1_desc">I can help high-level executives with day-to-day operations and help them navigate their day. As a personal assistant, you will work with an individual, rather than as a shared assistant amongst a pool of executives.</string>
+
+    <string name="slide_2_title">A.I. Chat Bot</string>
+    <string name="slide_2_desc">A.I. (Artificial Intelligence) chatbot program which conducts a conversation via auditory methods.</string>
+
+    <string name="slide_3_title">Personalised database system</string>
+    <string name="slide_3_desc">A Personalised database is centralized, easy to use, and secure. You can access information 24/7 and see only the data you want them to. Plus my robust reports and search features let you see the data just the way they want it.</string>
+
+    <string name="slide_4_title">Lets Get Started</string>
+    <string name="slide_4_desc">Just Tap On lets go button and lets get started </string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>

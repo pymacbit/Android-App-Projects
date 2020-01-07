@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/y3/Documents/Projects/AMiGO/app/libs/Ab.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af7496189919b4d17d8edff988421623653cc8b1">
+        <dex dex="/Users/y3/Documents/Projects/AMiGO/app/build/intermediates/transforms/dex/debug/folders/1000/2/Ab_48db844fad7edffbdfd25e2d1ad96023b4c7ce87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/Documents/Projects/AMiGO/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a1e98a295c9e12e3c5d905a79e5152b39ba77c7">
+        <dex dex="/Users/y3/Documents/Projects/AMiGO/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d35f09b3023e7a9841eb7e2fb8aaa81446722751/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/y3/Documents/Projects/AMiGO/app/libs/Ab.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af7496189919b4d17d8edff988421623653cc8b1">
+        <dex dex="/Users/y3/Documents/Projects/AMiGO/app/build/intermediates/pre-dexed/release/Ab_48db844fad7edffbdfd25e2d1ad96023b4c7ce87.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/y3/Documents/Projects/AMiGO/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/y3/Documents/Projects/AMiGO/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9995d7946ca318b3cd49056d196e5e30a9b874a9/classes.dex" />
+    </item>
+
+</items>
